@@ -72,3 +72,10 @@ Edite a configuração e localize as instações das bibliotecas citadas, que de
 /home/SEU_USUARIO/.composer/vendor/bin/php-cs-fixer
 ```
 
+Ainda nas configurações, prepare sua IDE para entender esta configração acesso o seguinte caminho
+
+``` Editor -> Inspections -> Quality Tools ```
+
+Configura se acordo com sua necessidade, nos tratamos isso com extrema importancia por isso nossa severidade em todos os itens é Error
+
+
